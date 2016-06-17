@@ -1,0 +1,8 @@
+#include "../include/Resources.h"
+
+1	ICON	"..\\resources\\cinder_app_icon.ico"
+RES_SLIDE1
+RES_SLIDE2
+RES_SLIDE3
+RES_SLIDE4
+RES_SLIDE5

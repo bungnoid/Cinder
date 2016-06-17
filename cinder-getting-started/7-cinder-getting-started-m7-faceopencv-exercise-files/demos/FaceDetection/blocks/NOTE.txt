@@ -1,0 +1,5 @@
+Since the local copy of the OpenCV CinderBlock is very big for Dropbox uploading,
+I've removed that from this folder.
+
+Just use TinderBox as showed in the demo.
+
